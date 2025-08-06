@@ -22,7 +22,7 @@
         "helmet": "^3.22.0",
         "morgan": "^1.10.0",
         "mysql": "^2.18.1",
-        "react-scripts": "^3.4.1",
+        "react-scripts": "^5.0.1",
         "uuid": "^3.3.3"
     },
     "devDependencies": {
